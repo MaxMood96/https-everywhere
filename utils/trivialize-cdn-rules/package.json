@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "chalk": "^2.4.2",
-    "standard": "^11.0.1"
+    "standard": "^17.1.0"
   },
   "scripts": {
     "start": "node index.js",
